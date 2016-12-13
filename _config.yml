@@ -27,9 +27,6 @@ twitter_username: jekyllrb
 github_username:  lambertq
 
 safe:        false
-#auto:        false
-#server:      false
-#server_port: 4000
 base-url:    /
 
 source:      .
