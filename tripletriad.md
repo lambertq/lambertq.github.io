@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Triple Triad Remake Project
+title: Triple Triad Remake
 permalink: /tripletriadremake/
 ---
 
