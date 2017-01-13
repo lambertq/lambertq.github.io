@@ -21,7 +21,11 @@ In my recent years learning Computer programming at Berea College, I have often 
 You can follow my previous progress on this project on my old blog: [qmlambert.wordpress.com](https://qmlambert.wordpress.com)
 
 ## [](#header-2)Download Links
+
 ###### [](#header-6)Windows
+
+###### [](#header-6)Windows
+
 [DOWNLOAD HERE](https://drive.google.com/open?id=0BzSM2CkHXf-uSHFaRjJXUEQxMTg)
 
 Controls are as simple as click and dragging a card to a location on the game board. Score is shown in the upper corners of the screen and the winner is decided by who has the higher score when the gameboard is filled. 
