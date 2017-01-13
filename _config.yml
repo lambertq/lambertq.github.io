@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Quinten Lambert's Portfolio"
 email: lambertquinten@gmail.com
-intro: > Just a guy who likes programming, video game creation, and shooting pool.
+intro: Just a guy who likes programming, video game creation, and shooting pool.
 description: >
  Hello there and welcome to my site! My name is Quinten Lambert, and I love to program. Recently I have
  taken interest in video game programming, and I have begun to work in Unity. This site will serve as a 
