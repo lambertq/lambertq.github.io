@@ -57,7 +57,8 @@ kramdown:
 
 # Build settings
 markdown: kramdown
-theme: minima
+#old theme: minima
+theme: jekyll-theme-hacker
 gems:
   - jekyll-feed
 exclude:
