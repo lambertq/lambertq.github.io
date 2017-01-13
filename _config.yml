@@ -16,10 +16,10 @@
 title: "Quinten Lambert's Portfolio"
 email: lambertquinten@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Hello there! My name is Quinten and I am an aspiring game developer. I may just be getting
- started but I have big aspirations to work on some large title someday. Until then this website
- serves as a compilation of my personal work to understand the process of creating games. If you 
- would like to speak with me feel free to shoot me an email! 
+ Hello there and welcome to my site! My name is Quinten Lambert, and I love to program. Recently I have
+ taken interest in video game programming, and I have begun to work in Unity. This site will serve as a 
+ compilation of my personal work so feel free to browse at your leisure! If you have any questions or if 
+ you would just like to chat, I can always be reached by my email: lambertquinten@gmail.com . 
  
 # the subpath of your site, e.g. /blog
 url: https://lambertq.github.io
