@@ -13,4 +13,4 @@ I will be updating my blog regularly with new content for the next few months. C
 
 I have worked on a couple of things in the past, 
 
-[Check out my version of Triple Triad!](https://lambertq.github.io/tripletriad/) 
+[Check out my version of Triple Triad!](tripletriad) 
