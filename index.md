@@ -6,7 +6,7 @@ layout: default
 title: Welcome!
 ---
 
-## [](#header-2)Welcome!
+# [](#header-1)Welcome!
 
 * * *
 
