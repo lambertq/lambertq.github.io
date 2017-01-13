@@ -22,9 +22,7 @@ You can follow my previous progress on this project on my old blog: [qmlambert.w
 
 ## [](#header-2)Download Links
 
-###### [](#header-6)Windows
-
-###### [](#header-6)Windows
+#### [](#header-4)Windows
 
 [DOWNLOAD HERE](https://drive.google.com/open?id=0BzSM2CkHXf-uSHFaRjJXUEQxMTg)
 
@@ -40,14 +38,19 @@ At the moment I have a partially built game that does all of the basic functions
 
 As for that final point, the only way to close the game on windows is to either close it through task manager, press ALT + F4 while in the game screen, or to ALT + TAB out of the game to close it manually by right clicking the icon on the task bar. Again I apologize for this inconvenience, these three problems will be addressed in the next update of the game. 
 
-###### [](#header-6)Mac
+#### [](#header-4)Mac
 Coming soon!
 
-###### [](#header-6)Linux
+#### [](#header-4)Linux
 Coming soon!
+
+* * * 
 
 ## [](#header-2)Feel Free To Contact Me!
 If you have any problems with the current state of the game or want to let me know what I could improve feel free to drop me an email: lambertquinten@gmail.com
 
+* * * 
+
 ###### [](#header-6)Disclaimer
-**_I do not own the original game of Triple Triad in any form and the art assets used are property of Square Enix. I am only doing this for educational purposes and will not be gaining any monetary value from this project. No code was taken from the original game, all code was created from scratch to augment personal learning._**
+
+_I do not own the original game of Triple Triad in any form and the art assets used are property of Square Enix. I am only doing this for educational purposes and will not be gaining any monetary value from this project. No code was taken from the original game, all code was created from scratch to augment personal learning._
