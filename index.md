@@ -7,7 +7,7 @@ layout: default
 
 ## [](#header-2)Follow My Blog!
 
-I will be updating my blog regularly with new content for the next few months. Check out what I'm working on!
+I will be updating my blog regularly with new content for the next few months. [Check out what I'm working on!](posts)
 
 ## [](#header-2)Check out my Past Projects
 
