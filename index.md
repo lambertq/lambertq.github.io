@@ -5,8 +5,6 @@
 layout: default
 ---
 
-{% include header.html %}
-
 # [](#header-1)[Follow My Blog!](about).
 
 I will be updating my blog regularly with new content for the next few months. Check out what I'm working on!
@@ -16,5 +14,3 @@ I will be updating my blog regularly with new content for the next few months. C
 I have worked on a couple of things in the past, 
 
 [Check out my version of Triple Triad!](https://lambertq.github.io/tripletriadremake/) 
-
-{% include footer.html %}
