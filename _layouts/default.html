@@ -9,6 +9,8 @@
 
   <body>
 
+    {% include header.html %}
+    
     <header>
       <div class="container">
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -42,5 +44,8 @@
         } catch(err) {}
       </script>
     {% endif %}
+    
+    {% include footer.html %}
+    
   </body>
 </html>
