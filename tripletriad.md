@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Triple Triad Remake
-permalink: /tripletriadremake/
+permalink: /tripletriad/
 ---
 
 # Introduction
