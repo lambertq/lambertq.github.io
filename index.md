@@ -5,14 +5,10 @@
 layout: default
 ---
 
-## [](#header-2)Follow My Blog!
+## [](#header-2)Welcome!
 
-I will be updating my blog regularly with new content for the next few months. [Check out what I'm working on!](posts)
-
-## [](#header-2)Check out my Past Projects
-
-I have worked on a couple of things in the past, 
-
-[Check out my version of Triple Triad!](tripletriad) 
-
-[Check out my past projects!](projects)
+ Hello there and welcome to my site! My name is Quinten Lambert, and I love to program. Recently I have
+ taken interest in video game programming, and I have begun to work in Unity. This site will serve as a 
+ compilation of my personal work so feel free to browse at your leisure! 
+ 
+ If you have any questions or if you would just like to chat, I can always be reached by my email: lambertquinten@gmail.com
