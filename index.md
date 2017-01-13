@@ -5,6 +5,8 @@
 layout: default
 ---
 
+{% include head.html %}
+
 # [](#header-1)[Follow My Blog!](about).
 
 I will be updating my blog regularly with new content for the next few months. Check out what I'm working on!
