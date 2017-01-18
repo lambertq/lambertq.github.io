@@ -34,7 +34,7 @@ will make use of outside inspriation for this, but I plan to pull some puzzle id
 [Golden Sun](https://en.wikipedia.org/wiki/Golden_Sun).
 
 3.  Finally, thanks to Bianca, we have a better idea of what we would like the dungeon to look like! The concept art shown below was scetched out during our most recent meeting and we all agreed that the design just fit what we were expecting to a point. The design itself is still not complete, but this is definately a good start. 
-![Concept-Art](https://github.com/lambertq/lambertq.github.io/tree/master/assets/images/conceptartmd.jpg)
+![Concept-Art](/assets/images/conceptartmd.jpg)
 
 ## [](#header-2)Closing Thoughts
 
