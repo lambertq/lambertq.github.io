@@ -19,8 +19,7 @@ for the player character being here is still being worked out). Inside, the play
 dark rooms and corridors that are littered with traps, puzzles, and crazy twists. Push, jump, climb, sneak, and run
 your way through the dungeon to discover the dark secret that lies within. 
 
-## [](#header-2)Gameplay Mechanics
-
+## [](#header-2)What We Have Decided on so Far
 Unfortunately I won't be able to release much more story about the game concept as we don't completely know everything
 ourselves. However, we have made some design decisions. 
 
