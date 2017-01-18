@@ -38,8 +38,8 @@ will make use of outside inspriation for this, but I plan to pull some puzzle id
 
 ## [](#header-2)Closing Thoughts
 
-So I named this post based on how stressful this process is, yet I've described how much stuff we have. That is my point, we have 
-enough ideas to flood a city. Compacting each and every idea into a game has been challenging, especially trying to make sure that
+So I named this post based on how stressful this process is, yet I've described a wonderfuly fun process thus far. While this process
+is extremely helpful its causing a problem. We just have so many ideas that its hard to narrow down and put together the good ones. Compacting each and every idea into a game has been challenging, especially trying to make sure that
 everything that we want in the game can interact with each other aspect in a reasonable way. We could throw together a hodge-podge
 game of everything that comes to mind, but that is both inefficient with time management during creation, and way out of scope to
 get a working product out by the end of the semester. This process of compiling all of our ideas is where my stress lies. We have a week from friday to have a rough draft of our design document. The clock is ticking and there is still a lot of work to do. Bring it on.
