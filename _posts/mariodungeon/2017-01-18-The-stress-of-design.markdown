@@ -33,7 +33,8 @@ of the game in our limited working time.
 will make use of outside inspriation for this, but I plan to pull some puzzle ideas from one of my favorite games 
 [Golden Sun](https://en.wikipedia.org/wiki/Golden_Sun).
 
-3.  
+3.  Finally, thanks to Bianca, we have a better idea of what we would like the dungeon to look like! The concept art shown below was scetched out during our most recent meeting and we all agreed that the design just fit what we were expecting to a point. The design itself is still not complete, but this is definately a good start. 
+![Concept art](https://drive.google.com/open?id=0BzSM2CkHXf-uTFBpMGRjcjdDQlU)
 
 ## [](#header-2)Closing Thoughts
 
