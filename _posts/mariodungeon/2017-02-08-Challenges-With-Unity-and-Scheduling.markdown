@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSC 497B: Challenges With Unity and Scheduling" 
-date:   2017-01-13 16:00:00 -0500
+date:   2017-02-08 20:10:00 -0500
 categories: mario
 ---
 ## [](#header-2)My Struggle to Make an Inventory System
