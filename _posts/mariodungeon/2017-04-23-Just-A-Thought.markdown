@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CSC 497B: Just a Thought" 
-date:   2017-04-24 16:00:00 -0500
+date:   2017-04-23 16:00:00 -0500
 categories: mario
 ---
 
