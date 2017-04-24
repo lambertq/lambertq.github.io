@@ -65,7 +65,7 @@ to make a game from scratch in a semester.
   experience, it is that game design is stressful, but highly rewarding if you persevere through the stress. Large projects will 
   take time, but each individual piece of the project has a weight and it up to each designer to determine which features have more 
   weight than others do. Be prepared to change your design constantly, and always have alternative methods close by; not everything 
-  will go as planned. Finally, my final bit of knowledge is to enjoy what you do. If you do not enjoy struggling with one feature, 
+  will go as planned. My final bit of knowledge is to enjoy what you do. If you do not enjoy struggling with one feature, 
   try another. Explore many different paths to find the one for you. I found mine, and it only took two semesters of game projects, 
   two conferences with amazing speakers, and many tears. Always remember to stay strong and keep trying, you will get there. 
   Jesse Schell has never said it better: “YOU are a game designer”.
