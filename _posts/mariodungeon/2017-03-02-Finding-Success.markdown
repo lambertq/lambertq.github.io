@@ -11,7 +11,7 @@ It took me a few weeks, but I was able to bring together an inventory system tha
 
 The first of these previous issues concerns the ability to have the items be draggable within the UI inside of the game. In order to create the system, I had to create a canvas object within the gameworld in Unity. The canvas object has a child panel object that stores each of the inventory slots. Which in turn will store the items held within those slots. This hierarchy is shown below.
 
-![Concept-Art](/assets/images/menuheirarchy.png)
+![Concept-Art](/assets/images/menuheirarchy.JPG)
 
 All of this is to say that the items that are held at the very bottom of this hierarchy need to be movable between each slot. To achieve this, I have added in a drag and drop system that dynamically changes this hierarchy based on which objects are in what inventory slot. 
 
